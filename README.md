@@ -5,12 +5,7 @@
  My  Projects  🚀 :
 </h1>
 
-
-
-A sleek, responsive cross-platform marketplace app built with Flutter. It features dynamic product listings, category filtering, user profile integration, and custom-designed UI components.
-
 ---
-
 
 <h1>Projects & Screenshots</h1>
 
