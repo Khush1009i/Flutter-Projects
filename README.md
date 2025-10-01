@@ -1,35 +1,41 @@
-<h1>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" 
-       width="38" 
-       style="vertical-align: middle; margin-right: 10px;" />
- My  Projects  🚀 :
-</h1>
+# Flutter & Dart Projects
 
-Flutter is Google’s open-source framework for building beautiful, fast, and multi-platform apps from a single codebase. 🚀
+## About Flutter
+Flutter is an open-source UI software development toolkit created by Google. It is used to build cross-platform applications from a single codebase, targeting Android, iOS, web, desktop, and more. Flutter provides a rich set of pre-designed widgets, high performance rendering, and great developer productivity with features like hot reload.
 
----
- 
-<h1>Projects & Screenshots</h1>
+## About Dart
+Dart is a programming language developed by Google, optimized for building fast and scalable applications. It is the language behind Flutter and is designed for both frontend (UI) and backend (server-side) development. Dart is object-oriented, has a clean syntax, and supports asynchronous programming with `async` and `await`.
 
-<h4>A minimal Calculator app </h4>
-<a href="https://github.com/Khush1009i/Flutter-Projects/tree/fa1f82ca92ee55f6c96c39e2d6319b7f0e6175d0/Project%20Folder/Calculator">
-<img width="334" height="377" alt="image" src="https://github.com/user-attachments/assets/95323c41-ece5-4bcc-b754-53dbfd4dead0" />
-</a>
+## Projects
 
+### 1. Project Name: ServeEase - Handyman (Provider)
+- Built using Flutter and Dart.
+- A service-based application that connects customers with service providers.
+- Features include user authentication, booking services, and provider management.
 
-<!---
+### 2. Project Name: Classifieds App
+- Built using Flutter and Dart.
+- Allows users to post, browse, and manage classified ads.
+- Includes product listing, categories, search functionality, and wishlist.
 
-<h4>1. A Small Dice roll app</h4>
+### 3. Project Name: Pricing Plans Module
+- A Flutter-based UI that fetches and displays pricing plans from an API.
+- Organized into sections such as packages, features, and FAQs.
 
-[![Flutter Marketplace App](https://github.com/Khush1009i/khush1009i/blob/22059a787ea90652e918b932de24e5290dc6d464/Khush%20soni%20(1).png)](https://github.com/yourusername/flutter-marketplace-app)
-<h6>Using the basic knowledge of flutter / Dart</h6>
-
----
-
-<h4>1. A Small Dice roll app</h4>
-
-[![Flutter Marketplace App](https://github.com/Khush1009i/khush1009i/blob/22059a787ea90652e918b932de24e5290dc6d464/Khush%20soni%20(1).png)](https://github.com/yourusername/flutter-marketplace-app)
-<h6>Using the basic knowledge of flutter / Dart</h6>
+### 4. Project Name: Home Page API Integration
+- Integrates data from a backend API into the Flutter home page.
+- Displays banners, products, categories, and other dynamic content.
 
 ---
 
+## How to Run These Projects
+1. Install [Flutter](https://flutter.dev/docs/get-started/install).
+2. Clone the repository.
+3. Run `flutter pub get` to install dependencies.
+4. Start a device emulator or connect a physical device.
+5. Run the project using `flutter run`.
+
+---
+
+## License
+These projects are open-source. You are free to use, modify, and distribute them under the terms of the MIT License.
